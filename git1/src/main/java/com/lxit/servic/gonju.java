@@ -19,7 +19,5 @@ public class gonju {
         qr.update(sql,19);
         Connection connection =ds.getConnection();
         System.out.println(connection);
-        System.out.println("老谭吃**。");
-        System.out.println("来吧看某sdf");
     }
 }
