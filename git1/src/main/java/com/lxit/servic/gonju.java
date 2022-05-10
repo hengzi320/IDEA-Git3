@@ -20,6 +20,6 @@ public class gonju {
         Connection connection =ds.getConnection();
         System.out.println(connection);
         System.out.println("老谭吃**。");
-        System.out.println("来吧看某");
+        System.out.println("来吧看某sdf");
     }
 }
